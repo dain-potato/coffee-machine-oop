@@ -42,4 +42,4 @@ Handles financial transactions for the coffee machine.
 1. Clone this repository.
 2. Run the program using Python:
    ```bash
-   python coffee_machine.py
+   python main.py
